@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/copertinaairbus.jpeg' width='250px'>"
 collection: portfolio
 ---
 
-# 1. Introduction  
+## 1. Introduction  
 
 This project aims to model a hydraulic system for an aircraft landing gear using OpenModelica software.  
 
@@ -14,7 +14,7 @@ This was followed by an initial modeling of a simple circuit on the software wit
 
 The project is concluded by presenting the results obtained.
 
-## 1.1 Landing Gear  
+### 1.1 Landing Gear  
 
 ![Landing gear](/images/Landinggear.png){:.align-right width="300px"}
 An aircraft landing gear is a mechanical system consisting of a retractable frame, mounted on wheels, that supports an aircraft when it is not in flight.  
