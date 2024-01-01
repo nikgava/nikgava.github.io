@@ -15,8 +15,8 @@ This was followed by an initial modeling of a simple circuit on the software wit
 The project is concluded by presenting the results obtained.
 
 ## 1.1 Landing Gear  
-![Landing gear](/images/Landinggear.png){:.align-left width="300px"}
 
+![Landing gear](/images/Landinggear.png){:.align-right width="300px"}
 An aircraft landing gear is a mechanical system consisting of a retractable frame, mounted on wheels, that supports an aircraft when it is not in flight.  
 
 Its purpose is to provide a suspension system during taxiing, takeoff and landing. It is designed to absorb and dissipate the kinetic energy of impact, thereby reducing the loads transmitted to the airframe.  
