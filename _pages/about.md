@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am currently working as a Industry Process Consultant at [Dassault Systèmes]([URL](https://www.3ds.com/it/)) in Milan. My team, [SIMULIA]([[URL](https://www.3ds.com/it/)](https://www.3ds.com/it/prodotti-e-servizi/simulia/)) is involved in providing consultancy services by developing customer specific Finite Element Models and Optimization analyses for a wide range of industries (automotive, aerospace, defense, marine, geotechnical, offshore, etc.).  
+I am currently working as a Industry Process Consultant at [Dassault Systèmes](https://www.3ds.com/it/) in Milan. My team, [SIMULIA](https://www.3ds.com/it/prodotti-e-servizi/simulia/) is involved in providing consultancy services by developing customer specific Finite Element Models and Optimization analyses for a wide range of industries (automotive, aerospace, defense, marine, geotechnical, offshore, etc.).  
 
 Bachelor's degree in **mechanical engineering** -> done  
 Master's degree in **automotive engineering** -> exams: finished, graduation date: April  
