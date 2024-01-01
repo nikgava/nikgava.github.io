@@ -28,7 +28,7 @@ This type of undercarriage is retracted into the fuselage or wings of the aircra
 ### 1.2 Reference aircraft  
 
 For this design study, the hydraulic system of an aircraft that is actually on the market and in operation was chosen, specifically the Airbus A320.
-![AirbusA320_ingombri](/images/AirbusA320_ingombri.png){:.align-center width="300px"}  
+![AirbusA320_ingombri](/images/AirbusA320_ingombri.png){:.align-center width="500px"}  
 
 ## 2. Components  
 
@@ -37,7 +37,7 @@ Referring to the Airbus A320 aircraft, components peculiar to the aircraft were 
 ### 2.1 Pump  
 
 The pumps that were selected for the landing gear and door circuit, from Parker's company catalog, are model AP10VC and AP6VSC, respectively, having the following characteristics:
-![Pump](/images/Pump.png){:.align-center width="300px"} 
+![Pump](/images/Pump.png){:.align-center width="500px"} 
 
 |                 | AP10VC             | AP6VSC           |
 |-----------------|--------------------|------------------|
@@ -56,8 +56,8 @@ The main actuator (referring to the carriage) and secondary actuator (referring 
 | Rod Diameter          | 98 mm       |
 | Stroke                | 272 mm      |
 | Displacement          | 4679 cm³    |
-| Operating Fluid       | Skydrol     |
-|                       |             |
+| Operating Fluid       | Skydrol     |  
+
 | **DOOR ACTUATOR**         |             |
 | Piston Diameter       | 96 mm       |
 | Rod Diameter          | 63 mm       |
@@ -68,7 +68,7 @@ The main actuator (referring to the carriage) and secondary actuator (referring 
 ### 2.3 Servo-valve  
 
 The directional control valves used are Parker model D1V*004 with symbolic architecture shown below.  
-![servovalcola](/images/servovalcola_stilizz.png){:.align-center width="300px"}  
+![servovalcola](/images/servovalcola_stilizz.png){:.align-center width="350px"}  
 
 ### 2.4 Check valve  
 
@@ -79,6 +79,7 @@ This component allows free circulation of flow in one direction and circulation 
 ### 2.5 Operating fluid  
 
 From literature and by comparing various offerings proposed by manufacturers and suppliers, "Skydrol" has been identified as the operating fluid. Since it is a fluid used on aircraft and thus also operates at near-zero temperatures, ISO-VG 46-3 fluid was chosen from the table below.  
+
 ![operatingfluid](/images/operatingfluid.png){:.align-center width="300px"}  
 
 ## 3. Design  
@@ -91,11 +92,14 @@ Referring to literature and demonstration videos, the following operational time
 - door closing/opening: about 5 seconds given used in the simulation for varied components, including the period of aerodynamic force application.  
 
 ### 3.1 Landing gear dimensions
-![dimension](/images/dimension.png){:.align-center width="300px"}  
 
-`Area front_gomma = 700 mm * 700 mm = 490000 mm² = 0,49 m²`
-`Area front_stelo = 2000 mm * 200 mm = 400000 mm² = 0,40 m²`
-`Afron = Area front_stelo + Area front_gomma = 0,89 m²`
+![dimension](/images/dimension.png){:.align-center width="400px"}  
+
+`Area front_gomma = 700 mm * 700 mm = 490000 mm² = 0,49 m²`  
+
+`Area front_stelo = 2000 mm * 200 mm = 400000 mm² = 0,40 m²`  
+
+`Afron = Area front_stelo + Area front_gomma = 0,89 m²`  
 
 ### 3.2 Aerodynamic Force  
 
@@ -106,20 +110,20 @@ We take advantage of the calculation of area made in section 3.1 to be able to c
 
 `D = 1/2 ρ A_front C_D v_media^2 = 2403 N`  
 
-- ρ (Rho): Air Density, 1.2 Kg/m³
-- A_front: Frontal Area, 0.89 m²
-- C_D: Drag Coefficient, 0.8
-- V_media: Average Velocity of the vehicle, 75 m/s  
+- ρ (Rho): Air Density: 1.2 Kg/m³
+- A_front: Frontal Area: 0.89 m²
+- C_D: Drag Coefficient: 0.8
+- V_media: Average Velocity of the vehicle: 75 m/s  
 
 **Aerodynamic Force on the doors**  
 
 `D = C_corr * 1/2 * ρ * A_front * C_D * V_media^2 = 337 N`  
 
-- ρ: Air Density, 1.2 Kg/m³
-- A_front: Frontal Area, 0.104 m²
-- C_D: Drag Coefficient, 0.8
-- V_media: Average Vehicle Velocity, 75 m/s
-- C_corr: Corrective Coefficient, 1.2
+- ρ: Air Density: 1.2 Kg/m³
+- A_front: Frontal Area: 0.104 m²
+- C_D: Drag Coefficient: 0.8
+- V_media: Average Vehicle Velocity: 75 m/s
+- C_corr: Corrective Coefficient: 1.2
 
 ### 3.3 Pressure drop in the servo valve  
 
@@ -127,8 +131,8 @@ From Parker's catalog, the pressure drop of the valves was calculated using the 
 Pressure drop on curve 1 and 2; forward and return: 0.7 bar.
 (The same pressure drop is also assumed for the door actuator valve, with a flow rate of 11 l/min, as a precautionary measure since it would turn out to be slightly less).  
 
-![servovalvola_caduta_press](/images/servovalvola_caduta_press.png){:.align-center width="300px"}  
-![servovalvola_prees_drop1](/images/servovalvola_prees_drop1.png){:.align-center width="300px"}  
+![servovalvola_caduta_press](/images/servovalvola_caduta_press.png){:.align-center width="500px"}  
+![servovalvola_prees_drop1](/images/servovalvola_prees_drop1.png){:.align-center width="500px"}  
 
 ## 4. Modeling  
 
@@ -136,7 +140,7 @@ Through the use of OpenModelica software, it was possible to represent the hydra
 
 Considering that the real circuit would be an electro-hydraulic circuit the electrical part was considered with the inclusion of signals regulating the actuation of the directional valves and the revolutions of the electric motors controlling the pumps.  
 
-![Circuito](/images/Circuito.png){:.align-center width="300px"}  
+![Circuito](/images/Circuito.png){:.align-center width="800px"}  
 
 ## 5. Graphs  
 
@@ -146,24 +150,24 @@ Outside of these considerations, however, one must keep in mind the quasi-ideal 
 
 ### 5.1 Aerodynamic Forces  
 
-![Segnale_Forza_Carrello](/images/Segnale_Forza_Carrello.png){:.align-center width="300px"}  
-![Segnale_Forza_Porte](/images/Segnale_Forza_Porte.png){:.align-center width="300px"}  
-![Segnali_Forze_Carrello_Porte](/images/Segnali_Forze_Carrello_Porte.png){:.align-center width="300px"}  
+![Segnale_Forza_Carrello](/images/Segnale_Forza_Carrello.png){:.align-center width="400px"}  
+![Segnale_Forza_Porte](/images/Segnale_Forza_Porte.png){:.align-center width="400px"}  
+![Segnali_Forze_Carrello_Porte](/images/Segnali_Forze_Carrello_Porte.png){:.align-center width="400px"}  
 
 ### 5.2 Shift of masses  
 
-![Spostamento_Massa_Carrello](/images/Spostamento_Massa_Carrello.png){:.align-center width="300px"}  
-![Spostamento_Massa_Porte](/images/Spostamento_Massa_Porte.png){:.align-center width="300px"}  
-![Spostamenti_Masse_Carrello_Porta](/images/Spostamenti_Masse_Carrello_Porta.png){:.align-center width="300px"}  
+![Spostamento_Massa_Carrello](/images/Spostamento_Massa_Carrello.png){:.align-center width="400px"}  
+![Spostamento_Massa_Porte](/images/Spostamento_Massa_Porte.png){:.align-center width="400px"}  
+![Spostamenti_Masse_Carrello_Porta](/images/Spostamenti_Masse_Carrello_Porta.png){:.align-center width="400px"}  
 
 ### 5.3 Pump drive
 
-![Velocita_Angolare_Pompe](/images/Velocita_Angolare_Pompe.png){:.align-center width="300px"}  
+![Velocita_Angolare_Pompe](/images/Velocita_Angolare_Pompe.png){:.align-center width="400px"}  
 
-### 5.4 Door line component interaction  
+### 5.4 Door line component interaction   
 
-![relazionelineaporte](/images/relazionelineaporte.png){:.align-center width="300px"}  
-![Zoom](/images/Zoom.png){:.align-center width="300px"}  
+![relazionelineaporte](/images/relazionelineaporte.png){:.align-center width="400px"}  
+![Zoom](/images/Zoom.png){:.align-center width="400px"}  
 
 ## 6. Conlusion   
 
