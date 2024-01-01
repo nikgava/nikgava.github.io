@@ -17,5 +17,5 @@ Master's degree in **automotive engineering** -> exams: finished, graduation dat
 
 I am interested in engineering topics, especially in automotive but also in rail and space; finance and anything that comes remotely in contact with technology.  
 
-If I had to reduce myself to one word I would most likely choose "curious”!
+If I had to reduce myself to one word I would most likely choose "**curious**”!
 
