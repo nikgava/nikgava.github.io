@@ -96,9 +96,9 @@ Referring to literature and demonstration videos, the following operational time
 
 ![dimension](/images/dimension.png){:.align-center width="400px"}  
 
-Area front $_{\text {gomma }}=700 \mathrm{~mm} * 700 \mathrm{~mm}=490000 \mathrm{~mm}^2=0,49 \mathrm{~m}^2$  
-Area front $_{\text {stelo }}=2000 \mathrm{~mm} * 200 \mathrm{~mm}=400000 \mathrm{~mm}^2=0,40 \mathrm{~m}^2$  
-Area front $_{\text {stelo }}=Area front $_{\text {stelo }} + Area front $_{\text {gomma }}=0,89 \mathrm{~m}^2$  
+$Area front_{\text {gomma }}=700 \mathrm{~mm} * 700 \mathrm{~mm}=490000 \mathrm{~mm}^2=0,49 \mathrm{~m}^2$  
+$Area front_{\text {stelo }}=2000 \mathrm{~mm} * 200 \mathrm{~mm}=400000 \mathrm{~mm}^2=0,40 \mathrm{~m}^2$  
+$Area front_{\text {stelo }}=Area front_{\text {stelo }} + Area front_{\text {gomma }}=0,89 \mathrm{~m}^2$  
 
 ### 3.2 Aerodynamic Force  
 
