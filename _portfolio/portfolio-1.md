@@ -188,7 +188,7 @@ Further developments that can be implemented are:
 6. [Moog Servovalve overview](https://www.moog.it/content/dam/sites/italy/pdf/servovalvole/Moog-Servo-Valve-Overview-en.pdf)
 7. [Famiglia Airbus A320, Wikipedia](https://it.wikipedia.org/wiki/Famiglia_Airbus_A320)
 8. [Skydrol hydraulic fluids](https://www.eastman.com/Brands/EAS/Products/Pages/Skydrol.aspx)
-9. [Landing Gear Camera | flight landing wheel | 747 landing gear retraction | Plane landing, Youtube](https://www.youtube.com/watch?v=zXpGVTxZSx4)
+9. [Landing Gear Camera, flight landing wheel, 747 landing gear retraction, Plane landing, Youtube](https://www.youtube.com/watch?v=zXpGVTxZSx4)
 
 
 
