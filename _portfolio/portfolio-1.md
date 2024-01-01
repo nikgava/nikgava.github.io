@@ -96,14 +96,9 @@ Referring to literature and demonstration videos, the following operational time
 
 ![dimension](/images/dimension.png){:.align-center width="400px"}  
 
-Area front $_{\text {gomma }}=700 \mathrm{~mm} * 700 \mathrm{~mm}=490000 \mathrm{~mm}^2=0,49 \mathrm{~m}^2$
-`Area front_gomma = 700 mm * 700 mm = 490000 mm² = 0,49 m²`   
-
-Area front $_{\text {stelo }}=2000 \mathrm{~mm} * 200 \mathrm{~mm}=400000 \mathrm{~mm}^2=0,40 \mathrm{~m}^2$
-`Area front_stelo = 2000 mm * 200 mm = 400000 mm² = 0,40 m²`  
-
-Area front $_{\text {stelo }}=Area front $_{\text {stelo }} + Area front $_{\text {gomma }}=0,89 \mathrm{~m}^2$
-`Afron = Area front_stelo + Area front_gomma = 0,89 m²`  
+Area front $_{\text {gomma }}=700 \mathrm{~mm} * 700 \mathrm{~mm}=490000 \mathrm{~mm}^2=0,49 \mathrm{~m}^2$  
+Area front $_{\text {stelo }}=2000 \mathrm{~mm} * 200 \mathrm{~mm}=400000 \mathrm{~mm}^2=0,40 \mathrm{~m}^2$  
+Area front $_{\text {stelo }}=Area front $_{\text {stelo }} + Area front $_{\text {gomma }}=0,89 \mathrm{~m}^2$  
 
 ### 3.2 Aerodynamic Force  
 
@@ -121,7 +116,7 @@ $D=\frac{1}{2} \rho A_{\text {front }} C_D v_{\text {media }}{ }^2=2403 \mathrm{
 
 **Aerodynamic Force on the doors**  
 
-`D = C_corr * 1/2 * ρ * A_front * C_D * V_media^2 = 337 N`  
+$D=c_{\text {corr }} \frac{1}{2} \rho A_{\text {front }} C_D v_{\text {media }}{ }^2=337 \mathrm{~N}$
 
 - ρ: Air Density: 1.2 Kg/m³
 - A_front: Frontal Area: 0.104 m²
