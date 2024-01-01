@@ -4,6 +4,8 @@ excerpt: "<br/><img src='/images/copertinaairbus.jpeg' width='250px'>"
 collection: portfolio
 ---
 
+*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*
+
 ## 1. Introduction  
 
 This project aims to model a hydraulic system for an aircraft landing gear using OpenModelica software.  
