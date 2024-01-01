@@ -36,8 +36,9 @@ Referring to the Airbus A320 aircraft, components peculiar to the aircraft were 
 
 ### 2.1 Pump  
 
-The pumps that were selected for the landing gear and door circuit, from Parker's company catalog, are model AP10VC and AP6VSC, respectively, having the following characteristics:
-![Pump](/images/Pump.png){:.align-center width="500px"} 
+The pumps that were selected for the landing gear and door circuit, from Parker's company catalog, are model AP10VC and AP6VSC, respectively, having the following characteristics:  
+
+![Pump](/images/Pump.png){:.align-center width="500px"}  
 
 |                 | AP10VC             | AP6VSC           |
 |-----------------|--------------------|------------------|
