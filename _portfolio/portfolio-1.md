@@ -109,6 +109,8 @@ It was necessary to perform an estimation of the aerodynamic force acting on the
 **Aerodynamic Force on the landing gear**
 We take advantage of the calculation of area made in section 3.1 to be able to calculate the aerodynamic force acting on the trolley section. It is assumed that the aerodynamic force has direction parallel to the forward velocity being the most precautionary situation.  
 
+$D=\frac{1}{2} \rho A_{\text {front }} C_D v_{\text {media }}{ }^2=2403 \mathrm{~N}$  
+
 `D = 1/2 ρ A_front C_D v_media^2 = 2403 N`  
 
 - ρ (Rho): Air Density: 1.2 Kg/m³
