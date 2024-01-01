@@ -131,7 +131,7 @@ Pressure drop on curve 1 and 2; forward and return: 0.7 bar.
 (The same pressure drop is also assumed for the door actuator valve, with a flow rate of 11 l/min, as a precautionary measure since it would turn out to be slightly less).  
 
 ![servovalvola_caduta_press](/images/servovalvola_caduta_press.png){:.align-center width="500px"}  
-![servovalvola_prees_drop1](/images/servovalvola_prees_drop1.png){:.align-center width="500px"}  
+![servovalvola_prees_drop1](/images/servovalvola_prees_drop1.jpg){:.align-center width="500px"}  
 
 ## 4. Modeling  
 
