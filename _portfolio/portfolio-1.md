@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/copertinaairbus.jpeg' width='250px'>"
 collection: portfolio
 ---
 
-1. Introduction 
+1. Introduction
 This project aims to model a hydraulic system for an aircraft landing gear using OpenModelica software.  
 The work began with research aimed at obtaining a broad overview of the various types and functions of these devices, then moved on to a survey of the state of the art of current hydraulic circuits in today's aircraft.  
 This was followed by an initial modeling of a simple circuit on the software with continuous research on the data to be entered into the various components during modeling, trying to respect the actual operating conditions.  
