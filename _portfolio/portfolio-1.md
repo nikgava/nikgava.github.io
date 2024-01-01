@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Modeling hydraulic system of a landing gear with OpenModelica software"
+title: "Modeling hydraulic system of a landing gear with OpenModelica software"
+excerpt: "<br/><img src='/images/copertinaairbus.jpeg'>"
 collection: portfolio
 ---
 
