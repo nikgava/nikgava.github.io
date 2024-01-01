@@ -58,7 +58,7 @@ The main actuator (referring to the carriage) and secondary actuator (referring 
 | Stroke                | 272 mm      |
 | Displacement          | 4679 cm³    |
 | Operating Fluid       | Skydrol     |  
-
+|  |
 | **DOOR ACTUATOR**         |             |
 | Piston Diameter       | 96 mm       |
 | Rod Diameter          | 63 mm       |
