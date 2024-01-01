@@ -50,7 +50,7 @@ The pumps that were selected for the landing gear and door circuit, from Parker'
 
 The main actuator (referring to the carriage) and secondary actuator (referring to the doors) were selected from FIMAC catalog model MED, characterizing data shown in tables below.  
 
-| LANDING GEAR ACTUATOR |             |
+| **LANDING GEAR ACTUATOR** |             |
 |-----------------------|-------------|
 | Piston Diameter       | 148 mm      |
 | Rod Diameter          | 98 mm       |
@@ -58,7 +58,7 @@ The main actuator (referring to the carriage) and secondary actuator (referring 
 | Displacement          | 4679 cm³    |
 | Operating Fluid       | Skydrol     |
 |                       |             |
-| DOOR ACTUATOR         |             |
+| **DOOR ACTUATOR**         |             |
 | Piston Diameter       | 96 mm       |
 | Rod Diameter          | 63 mm       |
 | Stroke                | 175 mm      |
