@@ -1,6 +1,6 @@
 ---
 title: "Design of a Tower Crane for construction use"
-excerpt: "<br/><img src='/images/complessivo.PNG'>"
+excerpt: "<br/><img src='/images/complessivo.PNG' width='250px'>"
 collection: portfolio
 ---
 
