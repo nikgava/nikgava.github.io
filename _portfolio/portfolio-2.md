@@ -21,7 +21,7 @@ collection: portfolio
 
 The project consists of the realization of a tower crane for construction use, the ideal configuration in such cases is that of a grafted-element crane, characterized by considerable heights, very long booms, and high load capacities. Therefore, the crane will consist of a vertical structure (**tower**) that consists of a metal truss that performs a static function of supporting the girder, the horizontal part is divided into the part intended for load distribution (**boom**) and that for load balancing (**counter-boom**).  
 
-### 2. Counter-boom  
+## 2. Counter-boom  
 
 ![Blocchi di cemento](/images/Blocchidicemento.PNG){:.align-center width="300px"}  
 ![calcoli-gru02](/images/calcoli-gru02.jpeg){:.align-center width="400px"}  
@@ -42,12 +42,12 @@ The start and end positions of the carriage are considered: 𝑥_𝑄𝑖=2.5 �
 
 A mass 𝑚_𝑅=10000 𝑘𝑔 is assumed, and by iteration 𝑥_𝐺 is kept as close to the origin as possible in the two configurations.  
 
-After a few iterations, 𝑚𝑅=9000 kg is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
+After a few iterations, 𝑚_𝑅=9000 kg is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
 
 x_Gi = -0.88 m 
 x_Gf = 0.89 m 
 
-### 2. Basement  
+## 2. Basement  
 
 ![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="300px"}  
 ![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
@@ -61,7 +61,7 @@ with m_tot = 43300 kg is obtained:
 x_Gi = -0.5 m   
 x_Gf = 0.5 m   
 
-Therefore, the tipping moment on the base is:  
+Therefore, the overturning moment on the base is:  
 
 `M_f,rot = 43300 kg x 9.81 m/s² x 0.5 m = 214.4 kN m`  
 
@@ -71,11 +71,11 @@ The resulting compression force transmitted to the ground is:
 
 There are 4 supports for the tower, so the force on each beam is thus:  
 
-`F = 424.8 kN / 4 = 106.2 kN`  
+`F = 424.8 kN / 4 = 106.2 kN`    
 
+## Slewing ring   
 
-
-
+![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="300px"}  
 
 
 
