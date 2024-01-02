@@ -8,7 +8,7 @@ collection: portfolio
 
 ## 1. Technical Specifications  
 
-![schema-gru](/images/schema-gru.jpg){:.align-right width="300px"}  
+![schema-gru](/images/schema-gru.jpg){:.align-center width="500px"}  
 
 | Symbol | Description                         | Value  |
 |--------|-------------------------------------|--------|
@@ -23,8 +23,8 @@ The project consists of the realization of a tower crane for construction use, t
 
 ### 2. Counter-boom  
 
-![Blocchi di cemento](/images/Blocchidicemento.PNG){:.align-right width="300px"}  
-![calcoli-gru02](/images/calcoli-gru02.jpeg){:.align-right width="300px"}  
+![Blocchi di cemento](/images/Blocchidicemento.PNG){:.align-center width="300px"}  
+![calcoli-gru02](/images/calcoli-gru02.jpeg){:.align-center width="400px"}  
 
 | Component             | Symbol | Mass (kg) |
 |-----------------------|--------|-----------|
@@ -47,6 +47,31 @@ After a few iterations, 𝑚𝑅=9000 kg is obtained as the distance in the two 
 x_Gi = -0.88 m 
 x_Gf = 0.89 m 
 
+### 2. Basement  
+
+![calcoli-gru07](/images/calcoli-gru07.jpeg){:.align-center width="300px"}  
+![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
+
+Calculation of center of mass:  
+
+`x_G = (1 / m_tot) * (m_b * x_b + m_Q * x_Q - m_c * x_c - m_R * x_R)`  
+
+with m_tot = 43300 kg is obtained:  
+
+x_Gi = -0.5 m   
+x_Gf = 0.5 m   
+
+Therefore, the tipping moment on the base is:  
+
+`M_f,rot = 43300 kg x 9.81 m/s² x 0.5 m = 214.4 kN m`  
+
+The resulting compression force transmitted to the ground is:  
+
+`F_tot = 43300 kg x 9.81 m/s² = 424.8 kN`  
+
+There are 4 supports for the tower, so the force on each beam is thus:  
+
+`F = 424.8 kN / 4 = 106.2 kN`  
 
 
 
