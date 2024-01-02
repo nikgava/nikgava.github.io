@@ -1,6 +1,6 @@
 ---
 title: "Design of a Tower Crane for construction use"
-excerpt: "<br/><img src='/images/complessivo.PNG' width='250px'>"
+excerpt: "<br/><img src='/images/complessivo.PNG' width='400px'>"
 collection: portfolio
 ---
 
@@ -8,13 +8,14 @@ collection: portfolio
 
 ## 1. Technical Specifications  
 
+![schema-gru](/images/schema-gru.jpg){:.align-right width="300px"}  
+
 | Symbol | Description                         | Value  |
 |--------|-------------------------------------|--------|
 | H      | Maximum Height                      | 50 m   |
 | h      | Maximum Load Lifting                | 40 m   |
 | L      | Length of Arm + Counterarm          | 60 m   |
 | P      | Load at Maximum Extension           | 9800 N |
-
 
 ## 1. Introduction  
 
