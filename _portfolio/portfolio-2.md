@@ -14,16 +14,38 @@ collection: portfolio
 |--------|-------------------------------------|--------|
 | H      | Maximum Height                      | 50 m   |
 | h      | Maximum Load Lifting                | 40 m   |
-| L      | Length of Arm + Counterarm          | 60 m   |
+| L      | Length of Arm + Counter-boom        | 60 m   |
 | P      | Load at Maximum Extension           | 9800 N |
 
 ## 1. Introduction  
 
 The project consists of the realization of a tower crane for construction use, the ideal configuration in such cases is that of a grafted-element crane, characterized by considerable heights, very long booms, and high load capacities. Therefore, the crane will consist of a vertical structure (**tower**) that consists of a metal truss that performs a static function of supporting the girder, the horizontal part is divided into the part intended for load distribution (**boom**) and that for load balancing (**counter-boom**).  
 
-### 1.1 Landing Gear  
+### 2. Counter-boom  
 
-![Landing gear](/images/Landinggear.png){:.align-right width="300px"}
+![Blocchi di cemento](/images/Blocchidicemento.PNG){:.align-right width="300px"}  
+![calcoli-gru02](/images/calcoli-gru02.jpeg){:.align-right width="300px"}  
+
+| Component             | Symbol | Mass (kg) |
+|-----------------------|--------|-----------|
+| Arm Mass              | m_b    | 4600      |
+| Counter-boom Mass     | m_c    | 4700      |
+| Upper Structure Mass  | m_s    | 5200      |
+| Trolley Mass          | -      | 76        |
+| Block Mass            | -      | 28        |  
+
+The mass of concrete blocks 𝑚_R is calculated so as to minimize the distance of the center of mass from the axis of symmetry of the vertical crane structure so as to have a low overturning moment.  
+
+The start and end positions of the carriage are considered: 𝑥_𝑄𝑖=2.5 𝑚 ; 𝑥_𝑄𝑓=42 𝑚 to find the coordinates of the center of mass:  
+
+`x_G = (1 / m_tot) * (m_b * x_b + m_Q * x_Q - m_c * x_c - m_R * x_R)`  
+
+A mass 𝑚_𝑅=10000 𝑘𝑔 is assumed, and by iteration 𝑥_𝐺 is kept as close to the origin as possible in the two configurations.  
+
+After a few iterations, 𝑚𝑅=9000 kg is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
+
+x_Gi = -0.88 m 
+x_Gf = 0.89 m 
 
 
 
