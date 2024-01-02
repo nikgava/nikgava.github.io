@@ -49,7 +49,7 @@ x_Gf = 0.89 m
 
 ### 2. Basement  
 
-![calcoli-gru07](/images/calcoli-gru07.jpeg){:.align-center width="300px"}  
+![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="300px"}  
 ![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
 
 Calculation of center of mass:  
