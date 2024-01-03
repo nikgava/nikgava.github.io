@@ -229,84 +229,84 @@ Laslty a check on the weld of the counter-boom connection plate was done.
 
 ## 6. Bill of material  
 
-| Number | Description                                   | Quantity | Material         |
-|--------|-----------------------------------------------|----------|------------------|
-| 1      | Base Support                                  | 4        | steel S355       |
-| 2      | Base Attachment Structure                     | 1        | steel S355       |
-| 3      | Vertical Tower Structure                      | 12       | steel S355       |
-| 4      | Access Platform                               | 6        | steel S355       |
-| 5      | Ladder                                        | 7        | steel S355       |
-| 6      | Ladder Protection                             | 1        | steel S355       |
-| 7      | Roller Support Structure                      | 1        | steel S355       |
-| 8      | Upper Roller Structure                        | 1        | steel S355       |
-| 9      | Lower Roller Ladder                           | 1        | steel S355       |
-| 10     | Upper Roller Ladder                           | 1        | steel S355       |
-| 11     | Mobile Roller Ladder                          | 1        | steel S355       |
-| 12     | Roller                                        | 1        | steel 42CrMo4    |
-| 13     | Drive Wheel                                   | 1        | steel 42CrMo4    |
-| 14     | Drive Wheel Shaft                             | 1        | steel 42CrMo4    |
-| 15     | Lower Bearing Support                         | 1        | steel S355       |
-| 16     | Upper Bearing Support                         | 1        | steel S355       |
-| 17     | Bearing 214-Z                                 | 1        | \                |
-| 18     | Bearing 216-Z                                 | 1        | \                |
-| 19     | Motor Support Structure                       | 1        | steel S355       |
-| 20     | Cabin Support Structure                       | 1        | steel S355       |
-| 21     | Cabin                                         | 1        | steel S185       |
-| 22     | Internal Arm Connection                       | 2        | steel S355       |
-| 23     | External Arm Connection                       | 2        | steel S355       |
-| 24     | Internal Counterarm Connection                | 2        | steel S355       |
-| 25     | External Counterarm Connection                | 2        | steel S355       |
-| 26     | Arm Locking System                            | 2        | steel S355       |
-| 27     | Counterarm Locking System                     | 2        | steel S355       |
-| 28     | Arm Locking Pin                               | 4        | steel 42CrMo4    |
-| 29     | Counterarm Locking Pin                        | 4        | steel 42CrMo4    |
-| 30     | Counterarm Coupling Plate Pin                 | 2        | steel S355       |
-| 31     | Counterarm Coupling Plate                     | 1        | steel S355       |
-| 32     | Counterarm Structure                          | 1        | steel S355       |
-| 33     | Counterarm Connecting Plate                   | 12       | steel S355       |
-| 34     | Counterarm Tension Rod Attachment Plate       | 6        | steel S355       |
-| 35     | Cement Block Bar                              | 2        | steel S355       |
-| 36     | Small Cement Block                            | 2        | cement           |
-| 37     | Large Cement Block                            | 4        | cement           |
-| 38     | Parapet                                       | 23       | steel X CrNi 12  |
-| 39     | Lifting Winch                                 | 1        | \                |
-| 40     | Arm Coupling Plate                            | 4        | steel S355       |
-| 41     | Arm Coupling Plate Pin                        | 4        | steel S355       |
-| 42     | Initial Arm Structure                         | 1        | steel S355       |
-| 43     | Arm Reticle Structure                         | 8        | steel S355     |
-| 44     | Lower Arm Connecting Plate                    | 36       | steel S355     |
-| 45     | Inner Arm Connecting Plate                    | 9        | steel S355     |
-| 46     | Outer Arm Connecting Plate                    | 18       | steel S355     |
-| 47     | Brace Connecting Plate                        | 2        | steel S355     |
-| 48     | Tie Rod Support                               | 1        | steel S355     |
-| 49     | Pulley Support                                | 9        | steel S355     |
-| 50     | Pulley Pin                                    | 1        | steel 42CrMo4  |
-| 51     | Trolley Drive Winch                           | 1        | \              |
-| 52     | Arm End Structure                             | 1        | steel S355     |
-| 53     | Trolley Structure                             | 1        | steel S355     |
+| Number | Description                                   | Quantity | Material             |
+|--------|-----------------------------------------------|----------|----------------------|
+| 1      | Base Support                                  | 4        | steel S355           |
+| 2      | Base Attachment Structure                     | 1        | steel S355           |
+| 3      | Vertical Tower Structure                      | 12       | steel S355           |
+| 4      | Access Platform                               | 6        | steel S355           |
+| 5      | Ladder                                        | 7        | steel S355           |
+| 6      | Ladder Protection                             | 7        | steel S355           |
+| 7      | Roller Support Structure                      | 1        | steel S355           |
+| 8      | Upper Roller Structure                        | 1        | steel S355           |
+| 9      | Lower Roller Ladder                           | 1        | steel S355           |
+| 10     | Upper Roller Ladder                           | 1        | steel S355           |
+| 11     | Mobile Roller Ladder                          | 1        | steel S355           |
+| 12     | Roller                                        | 1        | steel 42CrMo4        |
+| 13     | Drive Wheel                                   | 1        | steel 42CrMo4        |
+| 14     | Drive Wheel Shaft                             | 1        | steel 42CrMo4        |
+| 15     | Lower Bearing Support                         | 1        | steel S355           |
+| 16     | Upper Bearing Support                         | 1        | steel S355           |
+| 17     | Bearing 214-Z                                 | 1        | \                    |
+| 18     | Bearing 216-Z                                 | 1        | \                    |
+| 19     | Motor Support Structure                       | 1        | steel S355           |
+| 20     | Cabin Support Structure                       | 1        | steel S355           |
+| 21     | Cabin                                         | 1        | steel S185           |
+| 22     | Internal Arm Connection                       | 2        | steel S355           |
+| 23     | External Arm Connection                       | 2        | steel S355           |
+| 24     | Internal Counterarm Connection                | 2        | steel S355           |
+| 25     | External Counterarm Connection                | 2        | steel S355           |
+| 26     | Arm Locking System                            | 2        | steel S355           |
+| 27     | Counterarm Locking System                     | 2        | steel S355           |
+| 28     | Arm Locking Pin                               | 4        | steel 42CrMo4        |
+| 29     | Counterarm Locking Pin                        | 4        | steel 42CrMo4        |
+| 30     | Counterarm Coupling Plate Pin                 | 2        | steel S355           | 
+| 31     | Counterarm Coupling Plate                     | 4        | steel S355           |
+| 32     | Counterarm Structure                          | 1        | steel S355           |
+| 33     | Counterarm Connecting Plate                   | 12       | steel S355           |
+| 34     | Counterarm Tension Rod Attachment Plate       | 2        | steel S355           |
+| 35     | Cement Block Bar                              | 6        | steel S355           |
+| 36     | Small Cement Block                            | 2        | cement               |
+| 37     | Large Cement Block                            | 4        | cement               |
+| 38     | Parapet                                       | 23       | steel X 2 CrNi 12    |
+| 39     | Lifting Winch                                 | 1        | \                    |
+| 40     | Arm Coupling Plate                            | 4        | steel S355           |
+| 41     | Arm Coupling Plate Pin                        | 2        | steel S355           |
+| 42     | Initial Arm Structure                         | 1        | steel S355           |
+| 43     | Arm Reticle Structure                         | 8        | steel S355           |
+| 44     | Lower Arm Connecting Plate                    | 36       | steel S355           |
+| 45     | Inner Arm Connecting Plate                    | 9        | steel S355           |
+| 46     | Outer Arm Connecting Plate                    | 18       | steel S355           |
+| 47     | Brace Connecting Plate                        | 2        | steel S355           |
+| 48     | Tie Rod Support                               | 1        | steel S355           |
+| 49     | Pulley Support                                | 9        | steel S355           |
+| 50     | Pulley Pin                                    | 9        | steel 42CrMo4        |
+| 51     | Trolley Drive Winch                           | 1        | \                    |
+| 52     | Arm End Structure                             | 1        | steel S355           |
+| 53     | Trolley Structure                             | 1        | steel S355           |
 | 54     | Wheel                                         | 4        | cast iron S-NiCr20-3 |
-| 55     | Wheel Pin                                     | 4        | steel 42CrMo4  |
-| 56     | Bearing 6307-2RS1                             | 4        | \              |
-| 57     | Trolley Pulley Pin                            | 2        | steel 42CrMo4  |
+| 55     | Wheel Pin                                     | 4        | steel 42CrMo4        |
+| 56     | Bearing 6307-2RS1                             | 4        | \                    |
+| 57     | Trolley Pulley Pin                            | 2        | steel 42CrMo4        |
 | 58     | Pulley                                        | 12       | cast iron S-NiCr20-3 |
-| 59     | Bearing 6005 2RSH                             | 24       | \              |
-| 60     | Block Structure                               | 1        | steel S355     |
-| 61     | Block Pulley Pin                              | 1        | steel 42CrMo4  |
-| 62     | Chain                                         | 1        | steel S355     |
-| 63     | Chain/Block Connection                        | 1        | steel S355     |
-| 64     | Hook Support                                  | 1        | steel S355     |
-| 65     | Bearing 32010-X                               | 1        | \              |
-| 66     | Hook Connecting Plate                         | 1        | steel S355     |
+| 59     | Bearing 6005 2RSH                             | 24       | \                    |
+| 60     | Block Structure                               | 1        | steel S355           |
+| 61     | Block Pulley Pin                              | 1        | steel 42CrMo4        |
+| 62     | Chain                                         | 1        | steel S355           |
+| 63     | Chain/Block Connection                        | 1        | steel S355           |
+| 64     | Hook Support                                  | 1        | steel S355           |
+| 65     | Bearing 32010-X                               | 1        | \                    |
+| 66     | Hook Connecting Plate                         | 1        | steel S355           |
 | 67     | Hook                                          | 1        | cast iron S-NiCr20-3 |
-| 68     | Traliccio Structure                           | 1        | steel S355     |
-| 69     | Traliccio Platform                            | 1        | steel S355     |
-| 70     | Tie Rod to Traliccio Tower Connection         | 1        | steel S355     |
-| 71     | Tie Rod Connecting Plate                      | 1        | steel S355     |
-| 72     | Counter-boom Tie Rod Plate                    | 1        | steel S355     |
-| 73     | Short Counter-boom Tie Rod                    | 4        | steel S355     |
-| 74     | Long Counter-boom Tie Rod                     | 2        | steel S355     |
-| 75     | Tie Rod short (line 1) Arm                    | 2        | steel S355     |
-| 76     | Tie Rod long (line 1) Arm                     | 4        | steel S355     |
-| 77     | Tie Rod short (line 2) Arm                    | 2        | steel S355     |
-| 78     | Tie Rod long (line 2) Arm                     | 2        | steel S355     |
+| 68     | Traliccio Structure                           | 1        | steel S355           |
+| 69     | Traliccio Platform                            | 1        | steel S355           |
+| 70     | Tie Rod to Traliccio Tower Connection         | 1        | steel S355           |
+| 71     | Tie Rod Connecting Plate                      | 1        | steel S355           |
+| 72     | Counter-boom Tie Rod Plate                    | 1        | steel S355           |
+| 73     | Short Counter-boom Tie Rod                    | 4        | steel S355           |
+| 74     | Long Counter-boom Tie Rod                     | 2        | steel S355           |
+| 75     | Tie Rod short (line 1) Arm                    | 2        | steel S355           |
+| 76     | Tie Rod long (line 1) Arm                     | 4        | steel S355           |
+| 77     | Tie Rod short (line 2) Arm                    | 2        | steel S355           |
+| 78     | Tie Rod long (line 2) Arm                     | 2        | steel S355           |
 
