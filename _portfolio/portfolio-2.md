@@ -189,9 +189,9 @@ The same rope chosen for trolley movement is choosen.
 
 (*The calculations performed are omitted here for brevity*)  
 
-![pernocatenabozzello](/images/pernocatenabozzello.PNG){:.align-left width="250px"}
-![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-center width="250px"}
-![pernoruota](/images/pernoruota.PNG){:.align-right width="250px"}  
+![pernocatenabozzello](/images/pernocatenabozzello.PNG){:.align-left width="200px"}  
+![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-center width="200px"}  
+![pernoruota](/images/pernoruota.PNG){:.align-right width="200px"}  
 
 ### Check of the bearing  
 
