@@ -57,7 +57,7 @@ After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the
 
 ## 3. Basement  
 
-![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="300px"}  
+![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="250px"}  
 ![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
 
 Calculation of center of mass:  
@@ -130,7 +130,7 @@ Lastly a check was made of the slewing ring & drive wheel teeth, where the maxim
 
 ### Check of the shaft of the drive wheel  
 
-![Albero](/images/Albero.PNG){:.align-center width="300px"}  
+![Albero](/images/Albero.PNG){:.align-center width="250px"}  
 ![calcoli-gru13](/images/calcoli-gru13.jpeg){:.align-center width="300px"}  
 
 Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)  
@@ -142,7 +142,7 @@ Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)
 
 ### Check of the screws   
 
-![Bulloniralla](/images/Bulloniralla.PNG){:.align-center width="300px"}  
+![Bulloniralla](/images/Bulloniralla.PNG){:.align-center width="200px"}  
 
 36 screws M27 x 155 - 8.8 (`𝜎_𝑅 = 800 N/mm^2`)  
 
@@ -152,7 +152,7 @@ A check was made both on compression and traction.
 ### Check of the rope for the trolley movement   
 
 ![carrello](/images/carrello.PNG){:.align-center width="300px"}  
-![calcoli-gru09](/images/calcoli-gru09.jpeg){:.align-center width="300px"}  
+![calcoli-gru09](/images/calcoli-gru09.jpeg){:.align-center width="450px"}  
 ![calcoli-gru07](/images/calcoli-gru07.jpeg){:.align-center width="300px"}  
 
 A maximum carriage travel speed equal: `v = 40 m/min = 0.667 m/s` was choosen.  
@@ -169,11 +169,11 @@ The rope is then chosen from a supplier's catalog that states the following:
 
 ### Choice of the winch for the trolley movement
 
-![Arganocarrellolungox](/images/Arganocarrellolungox.PNG){:.align-center width="300px"}  
+![Arganocarrellolungox](/images/Arganocarrellolungox.PNG){:.align-center width="450px"}  
 
 ### Check of the rope for the load lifting  
 
-![calcoli-gru08](/images/calcoli-gru08.jpeg){:.align-center width="300px"}  
+![calcoli-gru08](/images/calcoli-gru08.jpeg){:.align-center width="450px"}  
 
 To verify the choice of rope used to lift the load, the maximum stresses acting on it are sought.    
 
@@ -183,21 +183,21 @@ The same rope chosen for trolley movement is choosen.
 
 ### Choice of the winch for the load lifting  
 
-![Arganocarrellolungoz](/images/Arganocarrellolungoz.PNG){:.align-center width="300px"}  
+![Arganocarrellolungoz](/images/Arganocarrellolungoz.PNG){:.align-center width="450px"}  
 
 ### Check of the following shaft   
 
 (*The calculations performed are omitted here for brevity*)  
 
-![pernocatenabozzello](/images/pernocatenabozzello.PNG){:.align-center width="300px"}  
-![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-center width="300px"}  
-![pernoruota](/images/pernoruota.PNG){:.align-center width="300px"}  
+![pernocatenabozzello](/images/pernocatenabozzello.PNG){:.align-left width="250px"}
+![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-center width="250px"}
+![pernoruota](/images/pernoruota.PNG){:.align-right width="250px"}  
 
 ### Check of the bearing  
 
 (*The calculations performed are omitted here for brevity*)  
 
-![ruota](/images/ruota.PNG){:.align-center width="300px"}  
+![ruota](/images/ruota.PNG){:.align-center width="200px"}  
 
 ## 4. Study of the arm structure  
 
@@ -229,50 +229,50 @@ Laslty a check on the weld of the counter-boom connection plate was done.
 
 ## 6. Bill of material  
 
-| Number | Description                         | Quantity | Material         |
-|--------|-------------------------------------|----------|------------------|
-| 1      | Base Support                        | 4        | steel S355       |
-| 2      | Base Attachment Structure           | 1        | steel S355       |
-| 3      | Vertical Tower Structure            | 12       | steel S355       |
-| 4      | Access Platform                     | 6        | steel S355       |
-| 5      | Ladder                              | 7        | steel S355       |
-| 6      | Ladder Protection                   | 1        | steel S355       |
-| 7      | Roller Support Structure            | 1        | steel S355       |
-| 8      | Upper Roller Structure              | 1        | steel S355       |
-| 9      | Lower Roller Ladder                 | 1        | steel S355       |
-| 10     | Upper Roller Ladder                 | 1        | steel S355       |
-| 11     | Mobile Roller Ladder                | 1        | steel S355       |
-| 12     | Roller                              | 1        | steel 42CrMo4    |
-| 13     | Drive Wheel                         | 1        | steel 42CrMo4    |
-| 14     | Drive Wheel Shaft                   | 1        | steel 42CrMo4    |
-| 15     | Lower Bearing Support               | 1        | steel S355       |
-| 16     | Upper Bearing Support               | 1        | steel S355       |
-| 17     | Bearing 214-Z                       | 1        | \                |
-| 18     | Bearing 216-Z                       | 1        | \                |
-| 19     | Motor Support Structure             | 1        | steel S355       |
-| 20     | Cabin Support Structure             | 1        | steel S355       |
-| 21     | Cabin                               | 1        | steel S185       |
-| 22     | Internal Arm Connection             | 2        | steel S355       |
-| 23     | External Arm Connection             | 2        | steel S355       |
-| 24     | Internal Counterarm Connection      | 2        | steel S355       |
-| 25     | External Counterarm Connection      | 2        | steel S355       |
-| 26     | Arm Locking System                  | 2        | steel S355       |
-| 27     | Counterarm Locking System           | 2        | steel S355       |
-| 28     | Arm Locking Pin                     | 4        | steel 42CrMo4    |
-| 29     | Counterarm Locking Pin              | 4        | steel 42CrMo4    |
-| 30     | Counterarm Coupling Plate Pin       | 2        | steel S355       |
-| 31     | Counterarm Coupling Plate           | 1        | steel S355       |
-| 32     | Counterarm Structure                | 1        | steel S355       |
-| 33     | Counterarm Connecting Plate         | 12       | steel S355       |
-| 34     | Counterarm Tension Rod Attachment Plate | 6        | steel S355       |
-| 35     | Cement Block Bar                    | 2        | steel S355       |
-| 36     | Small Cement Block                  | 2        | cement           |
-| 37     | Large Cement Block                  | 4        | cement           |
-| 38     | Parapet                             | 23       | steel X CrNi 12  |
-| 39     | Lifting Winch                       | 1        | \                |
-| 40     | Arm Coupling Plate                  | 4        | steel S355       |
-| 41     | Arm Coupling Plate Pin              | 4        | steel S355       |
-| 42     | Initial Arm Structure              | 1        | steel S355       |
+| Number | Description                                   | Quantity | Material         |
+|--------|-----------------------------------------------|----------|------------------|
+| 1      | Base Support                                  | 4        | steel S355       |
+| 2      | Base Attachment Structure                     | 1        | steel S355       |
+| 3      | Vertical Tower Structure                      | 12       | steel S355       |
+| 4      | Access Platform                               | 6        | steel S355       |
+| 5      | Ladder                                        | 7        | steel S355       |
+| 6      | Ladder Protection                             | 1        | steel S355       |
+| 7      | Roller Support Structure                      | 1        | steel S355       |
+| 8      | Upper Roller Structure                        | 1        | steel S355       |
+| 9      | Lower Roller Ladder                           | 1        | steel S355       |
+| 10     | Upper Roller Ladder                           | 1        | steel S355       |
+| 11     | Mobile Roller Ladder                          | 1        | steel S355       |
+| 12     | Roller                                        | 1        | steel 42CrMo4    |
+| 13     | Drive Wheel                                   | 1        | steel 42CrMo4    |
+| 14     | Drive Wheel Shaft                             | 1        | steel 42CrMo4    |
+| 15     | Lower Bearing Support                         | 1        | steel S355       |
+| 16     | Upper Bearing Support                         | 1        | steel S355       |
+| 17     | Bearing 214-Z                                 | 1        | \                |
+| 18     | Bearing 216-Z                                 | 1        | \                |
+| 19     | Motor Support Structure                       | 1        | steel S355       |
+| 20     | Cabin Support Structure                       | 1        | steel S355       |
+| 21     | Cabin                                         | 1        | steel S185       |
+| 22     | Internal Arm Connection                       | 2        | steel S355       |
+| 23     | External Arm Connection                       | 2        | steel S355       |
+| 24     | Internal Counterarm Connection                | 2        | steel S355       |
+| 25     | External Counterarm Connection                | 2        | steel S355       |
+| 26     | Arm Locking System                            | 2        | steel S355       |
+| 27     | Counterarm Locking System                     | 2        | steel S355       |
+| 28     | Arm Locking Pin                               | 4        | steel 42CrMo4    |
+| 29     | Counterarm Locking Pin                        | 4        | steel 42CrMo4    |
+| 30     | Counterarm Coupling Plate Pin                 | 2        | steel S355       |
+| 31     | Counterarm Coupling Plate                     | 1        | steel S355       |
+| 32     | Counterarm Structure                          | 1        | steel S355       |
+| 33     | Counterarm Connecting Plate                   | 12       | steel S355       |
+| 34     | Counterarm Tension Rod Attachment Plate       | 6        | steel S355       |
+| 35     | Cement Block Bar                              | 2        | steel S355       |
+| 36     | Small Cement Block                            | 2        | cement           |
+| 37     | Large Cement Block                            | 4        | cement           |
+| 38     | Parapet                                       | 23       | steel X CrNi 12  |
+| 39     | Lifting Winch                                 | 1        | \                |
+| 40     | Arm Coupling Plate                            | 4        | steel S355       |
+| 41     | Arm Coupling Plate Pin                        | 4        | steel S355       |
+| 42     | Initial Arm Structure                         | 1        | steel S355       |
 | 43     | Arm Reticle Structure                         | 8        | steel S355     |
 | 44     | Lower Arm Connecting Plate                    | 36       | steel S355     |
 | 45     | Inner Arm Connecting Plate                    | 9        | steel S355     |
@@ -302,7 +302,7 @@ Laslty a check on the weld of the counter-boom connection plate was done.
 | 69     | Traliccio Platform                            | 1        | steel S355     |
 | 70     | Tie Rod to Traliccio Tower Connection         | 1        | steel S355     |
 | 71     | Tie Rod Connecting Plate                      | 1        | steel S355     |
-| 72     | Counterbracing Tie Rod Plate                  | 1        | steel S355     |
+| 72     | Counter-boom Tie Rod Plate                    | 1        | steel S355     |
 | 73     | Short Counter-boom Tie Rod                    | 4        | steel S355     |
 | 74     | Long Counter-boom Tie Rod                     | 2        | steel S355     |
 | 75     | Tie Rod short (line 1) Arm                    | 2        | steel S355     |
