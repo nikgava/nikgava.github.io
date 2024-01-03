@@ -9,13 +9,13 @@ collection: portfolio
 *As you will notice very often some calculations are omitted for matters of brevity, however I hold all the documentation on the calculations performed, feel free to contact me for clarification or curiosity, glad to answer if I can.*  
 
 ## Some pictures of the design  
+## 0. Technical Specifications  
 
 ![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="350px"}  
 ![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="350px"}  
 ![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="250px"}  
 ![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="350px"}  
 
-## 0. Technical Specifications  
 
 ![schema-gru](/images/schema-gru.jpg){:.align-center width="500px"}  
 
