@@ -10,12 +10,12 @@ collection: portfolio
 
 ## Some pictures of the design  
 
-![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="300px"}  
-![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="300px"}  
-![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="200px"}  
-![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="300px"}  
+![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="350px"}  
+![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="350px"}  
+![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="250px"}  
+![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="350px"}  
 
-## 1. Technical Specifications  
+## 0. Technical Specifications  
 
 ![schema-gru](/images/schema-gru.jpg){:.align-center width="500px"}  
 
@@ -82,7 +82,7 @@ There are 4 supports for the tower, so the force on each beam is thus:
 
 `F = 424.8 kN / 4 = 106.2 kN`    
 
-## Slewing ring   
+### Slewing ring   
 
 ![rallaruotadentata](/images/rallaruotadentata.PNG){:.align-center width="300px"}  
 
@@ -102,7 +102,6 @@ Material of the ring: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)
 
 - Torque with acceleration: `C_g = C_rv + C_rc + C_a`  
 `C_a` = acceleration torque  
-
 
 *The calculations performed are omitted here for brevity*  
 
@@ -220,7 +219,7 @@ A better evaluation of the forces that also considers the effects of wind and di
 
 Laslty a check on the weld of the arm connection plate was done.  
 
-## 4. Study of the counter-boom
+## 5. Study of the counter-boom
 
 ![Controbraccio](/images/Controbraccio.PNG){:.align-center width="300px"}  
 ![calcoli-gru20](/images/calcoli-gru20.jpeg){:.align-center width="300px"}  
@@ -229,7 +228,7 @@ A procedure similar to the previous arm but much more streamlined due to the lac
 
 Laslty a check on the weld of the counter-boom connection plate was done.  
 
-## 4. Bill of material  
+## 6. Bill of material  
 
 | Number | Description                         | Quantity | Material         |
 |--------|-------------------------------------|----------|------------------|
@@ -311,3 +310,4 @@ Laslty a check on the weld of the counter-boom connection plate was done.
 | 76     | Tie Rod (line 2) Brace                        | 4        | steel S355     |
 | 77     | Tie Rod (line 1) Arm                          | 2        | steel S355     |
 | 78     | Tie Rod (line 2) Arm                          | 2        | steel S355     |
+
