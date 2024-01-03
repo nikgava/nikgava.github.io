@@ -7,7 +7,9 @@ collection: portfolio
 *Disclaimer: Everything below was done during my time at university with two colleagues (Edoardo Innocenti and Gianluca Cioni), so it should be understood for educational purposes only. The following material has no real design purpose.*   
 
 *As you will notice very often some calculations are omitted for matters of brevity, however I hold all the documentation on the calculations performed, feel free to contact me for clarification or curiosity, glad to answer if I can.*  
- 
+
+***
+
 ## 0. Introduction  
 
 The project consists of the construction of a tower crane for construction use. Starting with a design with calculations and ending with the actual 3D design using SolidWorks software.
