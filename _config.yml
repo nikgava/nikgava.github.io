@@ -234,8 +234,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      #share: true
+      #comment: true
   # _talks lascia questo commento!
   #- scope:
       #path: ""
