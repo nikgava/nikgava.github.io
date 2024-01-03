@@ -193,6 +193,7 @@ The same rope chosen for trolley movement is choosen.
 ![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-right width="200px"}
 ![pernoruota](/images/pernoruota.PNG){:.align-center width="200px"}  
 
+
 ### Check of the bearing  
 
 (*The calculations performed are omitted here for brevity*)  
