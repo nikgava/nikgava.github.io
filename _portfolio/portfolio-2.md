@@ -4,17 +4,22 @@ excerpt: "<br/><img src='/images/complessivo.PNG' width='400px'>"
 collection: portfolio
 ---
 
-*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
+*Disclaimer: Everything below was done during my time at university with two colleagues (Edoardo Innocenti and Gianluca Cioni), so it should be understood for educational purposes only. The following material has no real design purpose.*   
 
 *As you will notice very often some calculations are omitted for matters of brevity, however I hold all the documentation on the calculations performed, feel free to contact me for clarification or curiosity, glad to answer if I can.*  
  
-## 0. Technical Specifications  
+## 0. Introduction  
+
+The project consists of the construction of a tower crane for construction use. Starting with a design with calculations and ending with the actual 3D design using SolidWorks software.
+
+The ideal configuration in such cases is that of a grafted-element crane, which is characterized by considerable heights, very long booms, and high loading capacity. Therefore, the crane will consist of a vertical structure (**tower**) that consists of a metal truss that performs a static beam support function; the horizontal part is divided into the part intended for load distribution (**boom**) and the part for load balancing (**counter-boom**).   
+
+## 1. Technical Specifications  
 
 ![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="350px"}  
 ![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="350px"}  
 ![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="250px"}  
 ![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="350px"}  
-
 
 ![schema-gru](/images/schema-gru.jpg){:.align-center width="500px"}  
 
@@ -23,11 +28,7 @@ collection: portfolio
 | H      | Maximum Height                      | 50 m   |
 | h      | Maximum Load Lifting                | 40 m   |
 | L      | Length of Arm + Counter-boom        | 60 m   |
-| P      | Load at Maximum Extension           | 9800 N |
-
-## 1. Introduction  
-
-The project consists of the realization of a tower crane for construction use, the ideal configuration in such cases is that of a grafted-element crane, characterized by considerable heights, very long booms, and high load capacities. Therefore, the crane will consist of a vertical structure (**tower**) that consists of a metal truss that performs a static function of supporting the girder, the horizontal part is divided into the part intended for load distribution (**boom** / **arm**) and that for load balancing (**counter-boom**).  
+| P      | Load at Maximum Extension           | 9800 N |  
 
 ## 2. Counter-boom  
 
