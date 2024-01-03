@@ -7,8 +7,7 @@ collection: portfolio
 *Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
 
 *As you will notice very often some calculations are omitted for matters of brevity, however I hold all the documentation on the calculations performed, feel free to contact me for clarification or curiosity, glad to answer if I can.*  
-
-## Some pictures of the design  
+ 
 ## 0. Technical Specifications  
 
 ![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="350px"}  
@@ -304,10 +303,10 @@ Laslty a check on the weld of the counter-boom connection plate was done.
 | 70     | Tie Rod to Traliccio Tower Connection         | 1        | steel S355     |
 | 71     | Tie Rod Connecting Plate                      | 1        | steel S355     |
 | 72     | Counterbracing Tie Rod Plate                  | 1        | steel S355     |
-| 73     | Short Counterbracing Tie Rod                  | 4        | steel S355     |
-| 74     | Long Counterbracing Tie Rod                   | 2        | steel S355     |
-| 75     | Tie Rod (line 1) Brace                        | 2        | steel S355     |
-| 76     | Tie Rod (line 2) Brace                        | 4        | steel S355     |
-| 77     | Tie Rod (line 1) Arm                          | 2        | steel S355     |
-| 78     | Tie Rod (line 2) Arm                          | 2        | steel S355     |
+| 73     | Short Counter-boom Tie Rod                    | 4        | steel S355     |
+| 74     | Long Counter-boom Tie Rod                     | 2        | steel S355     |
+| 75     | Tie Rod short (line 1) Arm                    | 2        | steel S355     |
+| 76     | Tie Rod long (line 1) Arm                     | 4        | steel S355     |
+| 77     | Tie Rod short (line 2) Arm                    | 2        | steel S355     |
+| 78     | Tie Rod long (line 2) Arm                     | 2        | steel S355     |
 
