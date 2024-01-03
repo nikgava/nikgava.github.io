@@ -6,7 +6,7 @@ collection: portfolio
 
 *Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
 
-##
+***
 
 The project consists in the design of a custom motorbike referring to an existing one that my family have.  
 
@@ -20,8 +20,8 @@ I started by taking all the measures I thought were necessary for the design. Th
 
 The brake system was the most complicated thing to design, as I could not take measurements very easily and had somewhat complicated shapes. In addition, the part of assembling the brake caliper was particularly challenging.  
 
-![assiememoto07](/images/assiememoto07.png){:.align-center width="300px"}  
-![assiememoto10](/images/assiememoto10.png){:.align-center width="400px"}  
+![assiememoto07](/images/assiememoto07.png){:.align-center width="250px"}  
+![assiememoto10](/images/assiememoto10.png){:.align-center width="500px"}  
 
 The next part of the design was the forks, which were also quite complicated to draw, having no way to access the layout of the internal components. I oriented myself with designs found on the web.  
 
@@ -33,7 +33,7 @@ The last part drawn was the handlebars with related components such as: brake le
 
 All purchasable and standard parts were taken from some libraries, such as screws and bearings.  
 
-![assiememoto11](/images/assiememoto11.png){:.align-center width="500px"}  
+![assiememoto11](/images/assiememoto11.png){:.align-center width="700px"}  
 
 Finally I leave the 2D drawing of the motorcycle assembly in pdf:  
 
