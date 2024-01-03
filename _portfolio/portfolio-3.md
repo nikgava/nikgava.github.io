@@ -6,6 +6,7 @@ collection: portfolio
 
 *Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
 
+##
 
 The project consists in the design of a custom motorbike referring to an existing one that my family have.  
 
