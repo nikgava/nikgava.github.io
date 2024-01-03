@@ -10,10 +10,10 @@ collection: portfolio
 
 ## Some pictures of the design  
 
-![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="500px"}  
-![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="500px"}  
-![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="500px"}  
-![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="500px"}  
+![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="300px"}  
+![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="300px"}  
+![assieme-gru-05](/images/assieme-gru-05.png){:.align-left width="200px"}  
+![assieme-gru-03](/images/assieme-gru-03.png){:.align-right width="300px"}  
 
 ## 1. Technical Specifications  
 
