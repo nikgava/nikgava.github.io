@@ -97,7 +97,7 @@ $𝜔 = 0.7 \mathrm{~rad/min } = 0.01167 \mathrm{~rad/s }$
 For the moment of inertia, all the weight concentrated at the center of gravity of the entire structure is considered  
 $I = m * d^2 = 19486 \mathrm{~kg m^2 }$ 
 
-Resulting in:  
+Assuming the acceleration time of 1s is obtained:  
 $C_{\text {a }}=0.227 \mathrm{~kN m}$ 
 
 From a graph is obtained that:   
@@ -136,10 +136,9 @@ A check was made both on compression and traction.
 ![calcoli-gru09](/images/calcoli-gru09.jpeg){:.align-center width="450px"}  
 ![calcoli-gru07](/images/calcoli-gru07.jpeg){:.align-center width="300px"}  
 
-A maximum carriage travel speed equal: $v=40 \mathrm{~m/min}=0.667 \mathrm{m/s}$ was choosen.  
+A maximum carriage travel speed equal: $v=40 \mathrm{~m/min}=0.667 \mathrm{~m/s}$ was choosen.  
 
 The maximum force to be applied to move the trolley when the load is maximum:  
-
 $F=𝜇_{\text {S }} * P = 0.4 * 10.8 \mathrm{~kN }=4.32 \mathrm{~kN }$  
 
 The rope is then chosen from a supplier's catalog that states the following:  
