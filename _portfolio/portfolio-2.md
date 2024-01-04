@@ -41,16 +41,15 @@ The ideal configuration in such cases is that of a grafted-element crane, which 
 
 The mass of concrete blocks `𝑚_R` is calculated so as to minimize the distance of the center of mass from the axis of symmetry of the vertical crane structure so as to have a low overturning moment.  
 
-The start and end positions of the carriage are considered: `𝑥_𝑄𝑖 = 2.5 𝑚` ; `𝑥_𝑄𝑓 = 42 𝑚` to find the coordinates of the center of mass:  
-
-`x_G = (1 / m_tot) * (m_b * x_b + m_Q * x_Q - m_c * x_c - m_R * x_R)`  
-
-A mass `𝑚_𝑅 = 10000 𝑘𝑔` is assumed, and by iteration `𝑥_𝐺` is kept as close to the origin as possible in the two configurations.  
-
 After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
 
 `x_Gi = -0.88 m` 
 `x_Gf = 0.89 m` 
+
+$x_{\text {Gi }}=-0.88 \mathrm{~m}$  
+$x_{\text {Gf }}=-0.89 \mathrm{~m}$  
+
+$D=\frac{1}{2} \rho A_{\text {front }} C_D v_{\text {media }}{ }^2=2403 \mathrm{~N}$  
 
 ## 3. Basement  
 
