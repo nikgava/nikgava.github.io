@@ -3,6 +3,7 @@ title: "Design of a custom motorbike with SolidWorks"
 excerpt: "<br/><img src='/images/assiememoto01.png' width='200px'>"
 collection: portfolio
 ---
+***  
 
 The project consists in the design of a custom motorbike referring to an existing one that my family have.  
 
