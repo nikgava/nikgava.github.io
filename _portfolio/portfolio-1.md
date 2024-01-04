@@ -4,10 +4,6 @@ excerpt: "<br/><img src='/images/copertinaairbus.jpeg' width='200px'>"
 collection: portfolio
 ---
 
-*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*
-
-***
-
 ## 1. Introduction  
 
 This project aims to model a hydraulic system for an aircraft landing gear using OpenModelica software.  
@@ -197,8 +193,11 @@ Further developments that can be implemented are:
 8. [Skydrol hydraulic fluids](https://www.eastman.com/Brands/EAS/Products/Pages/Skydrol.aspx)
 9. [Landing Gear Camera, flight landing wheel, 747 landing gear retraction, Plane landing, Youtube](https://www.youtube.com/watch?v=zXpGVTxZSx4)
 
+***
 
+*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
 
+*As you will notice very often some calculations are omitted for matters of brevity, however I hold all the documentation on the calculations performed, feel free to contact me for clarification or curiosity, glad to answer if I can.*  
 
 
 

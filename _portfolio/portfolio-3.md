@@ -4,10 +4,6 @@ excerpt: "<br/><img src='/images/assiememoto01.png' width='200px'>"
 collection: portfolio
 ---
 
-*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
-
-***
-
 The project consists in the design of a custom motorbike referring to an existing one that my family have.  
 
 ![assiememoto01](/images/assiememoto01.png){:.align-left width="350px"}  
@@ -37,5 +33,9 @@ All purchasable and standard parts were taken from some libraries, such as screw
 
 Finally I leave the 2D drawing of the motorcycle assembly in pdf:  
 
-[2D_Drawing_of_the_motorbike_assembly](/files/Tavolacomplessivo.pdf)
+[2D_Drawing_of_the_motorbike_assembly](/files/Tavolacomplessivo.pdf)  
+
+***
+
+*Disclaimer: Everything below was done during my time at university, so it should be understood for educational purposes only. The following material has no real design purpose.*  
 
