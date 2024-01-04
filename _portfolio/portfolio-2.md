@@ -42,7 +42,6 @@ The ideal configuration in such cases is that of a grafted-element crane, which 
 The mass of concrete blocks `𝑚_R` is calculated so as to minimize the distance of the center of mass from the axis of symmetry of the vertical crane structure so as to have a low overturning moment.  
 
 After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
-
 $x_{\text {Gi }}=-0.88 \mathrm{~m}$  
 $x_{\text {Gf }}=-0.89 \mathrm{~m}$  
 
@@ -52,31 +51,20 @@ $x_{\text {Gf }}=-0.89 \mathrm{~m}$
 ![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
 
 Calculation of center of mass:  
-
-$x_{\text {G }}=\frac{1}{m_{\text {tot }}} (m_{\text {b }}x_{\text {b }} + m_{\text {Q }}x_{\text {Q }} - m_{\text {c }}x_{\text {c }} - m_{\text {R }}x_{\text {R }})$
+$x_{\text {G }}=\frac{1}{m_{\text {tot }}} * (m_{\text {b }}x_{\text {b }} + m_{\text {Q }}x_{\text {Q }} - m_{\text {c }}x_{\text {c }} - m_{\text {R }}x_{\text {R }})$
 
 with m_tot = 43300 kg is obtained:  
-
 $x_{\text {Gi }}=-0.5 \mathrm{~m}$  
 $x_{\text {Gf }}=0.5 \mathrm{~m}$ 
 
 Therefore, the overturning moment on the base is:  
-
 $M_{\text {f,rot }} = 43300 \mathrm{~kg} * 9.81 \mathrm{~m/s^2} * 0.5 \mathrm{~m} = 214.4 \mathrm{~kN m}$ 
 
-`M_f,rot = 43300 kg x 9.81 m/s² x 0.5 m = 214.4 kN m`  
-
 The resulting compression force transmitted to the ground is:  
-
-$F_{\text {tot }} = 43300 \mathrm{~kg} 9.81 \mathrm{~m/s^2} = 424.8 \mathrm{~kN }$ 
-
-`F_tot = 43300 kg x 9.81 m/s² = 424.8 kN`  
+$F_{\text {tot }} = 43300 \mathrm{~kg} * 9.81 \mathrm{~m/s^2} = 424.8 \mathrm{~kN }$ 
 
 There are 4 supports for the tower, so the force on each beam is thus:  
-
 $F = \frac{424.8 \mathrm{~kN}}{4} = 106.2 \mathrm{~kN }$ 
-
-`F = 424.8 kN / 4 = 106.2 kN`    
 
 ### Slewing ring   
 
@@ -99,8 +87,6 @@ Material of the ring: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)
 - Torque with acceleration: `C_g = C_rv + C_rc + C_a`  
 `C_a` = acceleration torque  
 
-*The calculations performed are omitted here for brevity*  
-
 Resulting in:  
 $C_{\text {rc }} = 3.7 \mathrm{~kN m}$ 
 
@@ -109,36 +95,32 @@ From technical specifications the maximum rotational speed is equal to:
 $𝜔 = 0.7 \mathrm{~rad/min } = 0.01167 \mathrm{~rad/s }$ 
 
 For the moment of inertia, all the weight concentrated at the center of gravity of the entire structure is considered  
-$I = m d^2 = 19486 \mathrm{~kg m^2 }$ 
+$I = m * d^2 = 19486 \mathrm{~kg m^2 }$ 
 
 Resulting in:  
 $C_{\text {a }}=0.227 \mathrm{~kN m}$ 
-`C_a = 0.227 kN m`
 
 From a graph is obtained that:   
-$C_{\text {rv }}=0.5 \mathrm{~kN m}$ 
-`C_rv = 0.5 kN m`  
+$C_{\text {rv }}=0.5 \mathrm{~kN m}$   
 
 So, finally:  
 $C_{\text {d }}=4.3 \mathrm{~kN m}$  $C_{\text {g }}=4.5 \mathrm{~kN m}$ 
 
 ### Check   
 
-Lastly a check was made of the slewing ring & drive wheel teeth, where the maximum torque to be transmitted is `C_g = 4.5 kN m`  
-
-(*The calculations performed are omitted here for brevity*)  
+Lastly a check was made of the slewing ring & drive wheel teeth, where the maximum torque to be transmitted is  
+$C_{\text {g }}=4.5 \mathrm{~kN m}$  
 
 ### Check of the shaft of the drive wheel  
 
 ![Albero](/images/Albero.PNG){:.align-center width="250px"}  
 ![calcoli-gru13](/images/calcoli-gru13.jpeg){:.align-center width="300px"}  
 
-Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)  
-
-(*The calculations performed are omitted here for brevity*)   
+Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)    
 
 $M_{\text {f,max }}=4250 \mathrm{~kN mm}$  
 $C_{\text {t }}=4760 \mathrm{~kN mm}$  
+
 
 ### Check of the screws   
 
@@ -147,7 +129,6 @@ $C_{\text {t }}=4760 \mathrm{~kN mm}$
 36 screws M27 x 155 - 8.8 (`𝜎_𝑅 = 800 N/mm^2`)  
 
 A check was made both on compression and traction.  
-(*The calculations performed are omitted here for brevity*)  
 
 ### Check of the rope for the trolley movement   
 
@@ -155,11 +136,11 @@ A check was made both on compression and traction.
 ![calcoli-gru09](/images/calcoli-gru09.jpeg){:.align-center width="450px"}  
 ![calcoli-gru07](/images/calcoli-gru07.jpeg){:.align-center width="300px"}  
 
-A maximum carriage travel speed equal: `v = 40 m/min = 0.667 m/s` was choosen.  
+A maximum carriage travel speed equal: $v=40 \mathrm{~m/min}=0.667 \mathrm{m/s}$ was choosen.  
 
 The maximum force to be applied to move the trolley when the load is maximum:  
 
-$F=𝜇_{\text {S }} P = 0.4 10.8 \mathrm{~kN }=4.32 \mathrm{~kN }$  
+$F=𝜇_{\text {S }} * P = 0.4 * 10.8 \mathrm{~kN }=4.32 \mathrm{~kN }$  
 
 The rope is then chosen from a supplier's catalog that states the following:  
 
@@ -175,9 +156,7 @@ The rope is then chosen from a supplier's catalog that states the following:
 
 ![calcoli-gru08](/images/calcoli-gru08.jpeg){:.align-center width="450px"}  
 
-To verify the choice of rope used to lift the load, the maximum stresses acting on it are sought.    
-
-(*The calculations performed are omitted here for brevity*)  
+To verify the choice of rope used to lift the load, the maximum stresses acting on it are sought.     
 
 The same rope chosen for trolley movement is choosen.  
 
@@ -187,16 +166,12 @@ The same rope chosen for trolley movement is choosen.
 
 ### Check of the following shaft   
 
-(*The calculations performed are omitted here for brevity*)  
-
 ![pernocatenabozzello](/images/pernocatenabozzello.PNG){:.align-left width="150px"}
 ![pernopuleggiabozzello](/images/pernopuleggiabozzello.PNG){:.align-right width="200px"}
 ![pernoruota](/images/pernoruota.PNG){:.align-center width="200px"}  
 
 
-### Check of the bearing  
-
-(*The calculations performed are omitted here for brevity*)  
+### Check of the bearing    
 
 ![ruota](/images/ruota.PNG){:.align-center width="200px"}  
 
@@ -207,9 +182,7 @@ The same rope chosen for trolley movement is choosen.
 
 The standard: UNI-EN 13001-2:2015 it was taken as a reference.  
 
-This part required a lot of calculation. The structure was divided into elementary structures and equilibrium was made at each node. Some design assumptions were made.  
-
-The wind force is neglected as a first approximation.  
+This part required a lot of calculation. The structure was divided into elementary structures and equilibrium was made at each node. Some design assumptions were made. e.g. The wind force is neglected as a first approximation.  
 
 Finally, the forces transmitted to the next part of the arm are calculated.   
 
@@ -224,7 +197,7 @@ Laslty a check on the weld of the arm connection plate was done.
 ![Controbraccio](/images/Controbraccio.PNG){:.align-center width="300px"}  
 ![calcoli-gru20](/images/calcoli-gru20.jpeg){:.align-center width="300px"}  
 
-A procedure similar to the previous arm but much more streamlined due to the lack of the triangle structure is carried out. Force distribution easier to understand.  
+A procedure similar to the previous arm but much more easy, due to the lack of the triangle structure, is carried out. Force distribution easier to understand.  
 
 Laslty a check on the weld of the counter-boom connection plate was done.  
 
