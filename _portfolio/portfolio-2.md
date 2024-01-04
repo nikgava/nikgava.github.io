@@ -104,22 +104,25 @@ Material of the ring: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)
 *The calculations performed are omitted here for brevity*  
 
 Resulting in:  
-`C_rc = 3.7 kN m`  
+$C_{\text {rc }} = 3.7 \mathrm{~kN m}$ 
+
 
 From technical specifications the maximum rotational speed is equal to:  
-`𝜔 = 0.7 rad/min = 0.01167 rad/s`  
+$𝜔 = 0.7 \mathrm{~rad/min } = 0.01167 \mathrm{~rad/s }$ 
 
 For the moment of inertia, all the weight concentrated at the center of gravity of the entire structure is considered  
-`I = m x d^2 = 19486 kg m^2`
+$I = m d^2 = 19486 \mathrm{~kg m^2 }$ 
 
 Resulting in:  
+$C_{\text {a }}=0.227 \mathrm{~kN m}$ 
 `C_a = 0.227 kN m`
 
 From a graph is obtained that:   
+$C_{\text {rv }}=0.5 \mathrm{~kN m}$ 
 `C_rv = 0.5 kN m`  
 
 So, finally:  
-`C_d = 4.3 kN m` `C_g = 4.5 kN m`  
+$C_{\text {d }}=4.3 \mathrm{~kN m}$  $C_{\text {g }}=4.5 \mathrm{~kN m}$ 
 
 ### Check   
 
@@ -136,8 +139,8 @@ Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)
 
 (*The calculations performed are omitted here for brevity*)   
 
-`M_f,max = 4250 kN mm`  
-`M_t = 4760 kN mm`  
+$M_{\text {f,max }}=4250 \mathrm{~kN mm}$  
+$C_{\text {t }}=4760 \mathrm{~kN mm}$  
 
 ### Check of the screws   
 
@@ -158,7 +161,7 @@ A maximum carriage travel speed equal: `v = 40 m/min = 0.667 m/s` was choosen.
 
 The maximum force to be applied to move the trolley when the load is maximum:  
 
-`F = 𝜇_𝑆 * 𝑃 = 0.4 * 10.8 kN = 4.32 kN`   
+$F=𝜇_{\text {S }} P = 0.4 10.8 \mathrm{~kN }=4.32 \mathrm{~kN }$  
 
 The rope is then chosen from a supplier's catalog that states the following:  
 
