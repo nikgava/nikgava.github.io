@@ -43,13 +43,8 @@ The mass of concrete blocks `𝑚_R` is calculated so as to minimize the distanc
 
 After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
 
-`x_Gi = -0.88 m` 
-`x_Gf = 0.89 m` 
-
 $x_{\text {Gi }}=-0.88 \mathrm{~m}$  
 $x_{\text {Gf }}=-0.89 \mathrm{~m}$  
-
-$D=\frac{1}{2} \rho A_{\text {front }} C_D v_{\text {media }}{ }^2=2403 \mathrm{~N}$  
 
 ## 3. Basement  
 
@@ -60,20 +55,28 @@ Calculation of center of mass:
 
 `x_G = (1 / m_tot) * (m_b * x_b + m_Q * x_Q - m_c * x_c - m_R * x_R)`  
 
+$x_{\text {G }}=\frac{1}{m_{\text {tot }}} (m_{\text {b }}x_{\text {b }} + m_{\text {Q }}x_{\text {Q }} - m_{\text {c }}x_{\text {c }} - m_{\text {R }}x_{\text {R }})
+
 with m_tot = 43300 kg is obtained:  
 
-`x_Gi = -0.5 m`   
-`x_Gf = 0.5 m`   
+$x_{\text {Gi }}=-0.5 \mathrm{~m}$  
+$x_{\text {Gf }}=0.5 \mathrm{~m}$ 
 
 Therefore, the overturning moment on the base is:  
+
+$M_{\text {f,rot }} = 43300 \mathrm{~kg} 9.81 \mathrm{~m/s^2} 0.5 \mathrm{~m} = 214.4 \mathrm{~kN m}$ 
 
 `M_f,rot = 43300 kg x 9.81 m/s² x 0.5 m = 214.4 kN m`  
 
 The resulting compression force transmitted to the ground is:  
 
+$F_{\text {tot }} = 43300 \mathrm{~kg} 9.81 \mathrm{~m/s^2} = 424.8 \mathrm{~kN }$ 
+
 `F_tot = 43300 kg x 9.81 m/s² = 424.8 kN`  
 
 There are 4 supports for the tower, so the force on each beam is thus:  
+
+$F = \frac{424.8 \mathrm{~kN}}{4} = 106.2 \mathrm{~kN }$ 
 
 `F = 424.8 kN / 4 = 106.2 kN`    
 
