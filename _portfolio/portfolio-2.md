@@ -4,13 +4,13 @@ excerpt: "<br/><img src='/images/complessivo.PNG' width='400px'>"
 collection: portfolio
 ---
 
-## 0. Introduction  
+## 1. Introduction  
 
 The project consists of the construction of a tower crane for construction use. Starting with a design with calculations and ending with the actual 3D design using SolidWorks software.
 
 The ideal configuration in such cases is that of a grafted-element crane, which is characterized by considerable heights, very long booms, and high loading capacity. Therefore, the crane will consist of a vertical structure (**tower**) that consists of a metal truss that performs a static beam support function; the horizontal part is divided into the part intended for load distribution (**boom**) and the part for load balancing (**counter-boom**).   
 
-## 1. Technical Specifications  
+## 2. Technical Specifications  
 
 ![assieme-gru-01](/images/assieme-gru-01.png){:.align-left width="350px"}  
 ![assieme-gru-02](/images/assieme-gru-02.png){:.align-right width="350px"}  
@@ -26,7 +26,7 @@ The ideal configuration in such cases is that of a grafted-element crane, which 
 | L      | Length of Arm + Counter-boom        | 60 m   |
 | P      | Load at Maximum Extension           | 9800 N |  
 
-## 2. Counter-boom  
+## 3. Counter-boom  
 
 ![Blocchi di cemento](/images/Blocchidicemento.PNG){:.align-center width="300px"}  
 ![calcoli-gru02](/images/calcoli-gru02.jpeg){:.align-center width="400px"}  
@@ -45,7 +45,7 @@ After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the
 $x_{\text {Gi }}=-0.88 \mathrm{~m}$  
 $x_{\text {Gf }}=-0.89 \mathrm{~m}$  
 
-## 3. Basement  
+## 4. Basement  
 
 ![assieme-gru-07](/images/assieme-gru-07.png){:.align-center width="200px"}  
 ![calcoli-gru06](/images/calcoli-gru06.jpeg){:.align-center width="400px"}  
@@ -174,7 +174,7 @@ The same rope chosen for trolley movement is choosen.
 
 ![ruota](/images/ruota.PNG){:.align-center width="200px"}  
 
-## 4. Study of the arm structure  
+## 5. Study of the arm structure  
 
 ![braccio](/images/braccio.PNG){:.align-center width="300px"}  
 ![calcoli-gru19](/images/calcoli-gru19.jpeg){:.align-center width="300px"}  
@@ -191,7 +191,7 @@ A better evaluation of the forces that also considers the effects of wind and di
 
 Laslty a check on the weld of the arm connection plate was done.  
 
-## 5. Study of the counter-boom
+## 6. Study of the counter-boom
 
 ![Controbraccio](/images/Controbraccio.PNG){:.align-center width="300px"}  
 ![calcoli-gru20](/images/calcoli-gru20.jpeg){:.align-center width="300px"}  
@@ -200,7 +200,7 @@ A procedure similar to the previous arm but much more easy, due to the lack of t
 
 Laslty a check on the weld of the counter-boom connection plate was done.  
 
-## 6. Bill of material  
+## 7. Bill of material  
 
 | Number | Description                                   | Quantity | Material             |
 |--------|-----------------------------------------------|----------|----------------------|
