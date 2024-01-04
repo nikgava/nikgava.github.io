@@ -1,6 +1,6 @@
 ---
 title: "Design of a custom motorbike with SolidWorks"
-excerpt: "<br/><img src='/images/assiememoto01.png' width='250px'>"
+excerpt: "<br/><img src='/images/assiememoto01.png' width='200px'>"
 collection: portfolio
 ---
 
