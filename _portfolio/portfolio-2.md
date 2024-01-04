@@ -39,9 +39,9 @@ The ideal configuration in such cases is that of a grafted-element crane, which 
 | Trolley Mass          | -      | 76        |
 | Block Mass            | -      | 28        |  
 
-The mass of concrete blocks `𝑚_R` is calculated so as to minimize the distance of the center of mass from the axis of symmetry of the vertical crane structure so as to have a low overturning moment.  
+The mass of concrete blocks $m_{\text {R }}$ is calculated so as to minimize the distance of the center of mass from the axis of symmetry of the vertical crane structure so as to have a low overturning moment.  
 
-After a few iterations, `𝑚_𝑅 = 9000 kg` is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
+After a few iterations, $m_{\text {R }}=9000 \mathrm{~kg}$ is obtained as the distance in the two minimum configurations, resulting in a low overturning moment.  
 $x_{\text {Gi }}=-0.88 \mathrm{~m}$  
 $x_{\text {Gf }}=-0.89 \mathrm{~m}$  
 
@@ -78,14 +78,14 @@ The slewing ring was selected from a manufacturers' catalog code: 'EB2.35.1249.4
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | 1472 | 1252 | 1246 | 1085 | 1406 | 134  | 134  | 144  | 115  | 1350 | 1150 | 36   | 28   | 41   | 27   | 14   | 102  | 1428 |  
 
-Material of the ring: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)  
+Material of the ring: steel 42 CrMo 4 ($𝜎_{\text {R }}=900 \mathrm{~N/mm^2}$)  
 
-- Starting torque: `C_d = C_rv + C_rc`  
-`C_rv` = idle resistance torque with compressed bearing components  
-`C_rc` = constant rotation torque due to loads  
+- Starting torque: $C_{\text {d }}=C_{\text {rv }}+C_{\text {rc }}$  
+$C_{\text {rv }}$ = idle resistance torque with compressed bearing components  
+$C_{\text {rc }}$ = constant rotation torque due to loads  
 
-- Torque with acceleration: `C_g = C_rv + C_rc + C_a`  
-`C_a` = acceleration torque  
+- Torque with acceleration: $C_{\text {g }}=C_{\text {rv }}+C_{\text {rc }}+C_{\text {a }}$  
+$C_{\text {a }}$ = acceleration torque  
 
 Resulting in:  
 $C_{\text {rc }} = 3.7 \mathrm{~kN m}$ 
@@ -94,7 +94,7 @@ $C_{\text {rc }} = 3.7 \mathrm{~kN m}$
 From technical specifications the maximum rotational speed is equal to:  
 $𝜔 = 0.7 \mathrm{~rad/min } = 0.01167 \mathrm{~rad/s }$ 
 
-For the moment of inertia, all the weight concentrated at the center of gravity of the entire structure is considered  
+For the moment of inertia, all the weight concentrated at the center of gravity of the entire structure is considered:  
 $I = m * d^2 = 19486 \mathrm{~kg m^2 }$ 
 
 Assuming the acceleration time of 1s is obtained:  
@@ -108,7 +108,7 @@ $C_{\text {d }}=4.3 \mathrm{~kN m}$  $C_{\text {g }}=4.5 \mathrm{~kN m}$
 
 ### Check   
 
-Lastly a check was made of the slewing ring & drive wheel teeth, where the maximum torque to be transmitted is  
+Lastly a check was made of the slewing ring & drive wheel teeth, where the maximum torque to be transmitted is:  
 $C_{\text {g }}=4.5 \mathrm{~kN m}$  
 
 ### Check of the shaft of the drive wheel  
@@ -116,7 +116,7 @@ $C_{\text {g }}=4.5 \mathrm{~kN m}$
 ![Albero](/images/Albero.PNG){:.align-center width="250px"}  
 ![calcoli-gru13](/images/calcoli-gru13.jpeg){:.align-center width="300px"}  
 
-Material of the shaft: steel 42CrMo4 (`𝜎_𝑅 = 900 N/mm^2`)    
+Material of the shaft: steel 42 CrMo 4 ($𝜎_{\text {R }}=900 \mathrm{~N/mm^2}$)    
 
 $M_{\text {f,max }}=4250 \mathrm{~kN mm}$  
 $C_{\text {t }}=4760 \mathrm{~kN mm}$  
@@ -126,7 +126,7 @@ $C_{\text {t }}=4760 \mathrm{~kN mm}$
 
 ![Bulloniralla](/images/Bulloniralla.PNG){:.align-center width="200px"}  
 
-36 screws M27 x 155 - 8.8 (`𝜎_𝑅 = 800 N/mm^2`)  
+36 screws M27 x 155 - 8.8 ($𝜎_{\text {R }}=800 \mathrm{~N/mm^2}$)  
 
 A check was made both on compression and traction.  
 
