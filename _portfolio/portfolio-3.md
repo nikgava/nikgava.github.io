@@ -1,5 +1,5 @@
 ---
-title: "Design of a custom motorbike | SolidWorks"
+title: "Design of a custom motorbike, SolidWorks"
 excerpt: "<br/><img src='/images/assiememoto01.png' width='200px'>"
 collection: portfolio
 ---
