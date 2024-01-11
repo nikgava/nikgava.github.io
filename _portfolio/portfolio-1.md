@@ -1,5 +1,5 @@
 ---
-title: "Modeling hydraulic system of a landing gear with OpenModelica software"
+title: "Modeling hydraulic system of a landing gear - OpenModelica"
 excerpt: "<br/><img src='/images/copertinaairbus.jpeg' width='200px'>"
 collection: portfolio
 ---
