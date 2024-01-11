@@ -1,5 +1,5 @@
 ---
-title: "Design of a Tower Crane for construction use &gt;|&amp SolidWorks"
+title: "Design of a Tower Crane for construction use - SolidWorks"
 excerpt: "<br/><img src='/images/complessivo.PNG' width='400px'>"
 collection: portfolio
 ---
