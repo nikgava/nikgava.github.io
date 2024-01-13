@@ -189,7 +189,7 @@ To find the value of the tie-rod forces, equilibrium of moments is imposed on th
 
 A better evaluation of the forces that also considers the effects of wind and different positions of the trolley along the boom can be done through a finite element analysis.  
 
-Laslty a check on the weld of the arm connection plate was done.  
+Lastly a check on the weld of the arm connection plate was done.  
 
 ## 6. Study of the counter-boom
 
